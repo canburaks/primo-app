@@ -1,2 +1,1 @@
-# primo-app
-https://canburaks.primo.af/
+# Built with [primo](https://primo.so)
